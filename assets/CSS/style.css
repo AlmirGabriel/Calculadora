@@ -24,3 +24,17 @@
 .btn-eq:hover {
   background: rgb(47, 83, 193);
 }
+.btn-del {
+  background: #ff0000;
+  color: white;
+}
+.btn-del:hover {
+  background: #d20000;
+}
+.btn-clear {
+  background: green;
+  color: white;
+}
+.btn-clear:hover {
+  background: #01df01;
+}
